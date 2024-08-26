@@ -23,16 +23,16 @@ If you want to use your own local environment, you can try to match the installa
 
 ## SOTA related
 All SOTA models have been debugged and uploaded including codes and results to the cloud.
-- Faster R-CNN / VFNet / GFocal / DyHead / Rf-next
+- Faster R-CNN / VFNet / GFocal / DyHead / Rf-next <br>
 These models are all implemented using mmdetection:
-https://pan.baidu.com/s/1rc1FH8r6_ZobZHcwjn8fnw?pwd=6g66
-- HPE
+https://pan.baidu.com/s/1rc1FH8r6_ZobZHcwjn8fnw?pwd=6g66 
+- HPE <br>
 https://pan.baidu.com/s/1StSivqNdX3D63Kek7pdfQQ?pwd=dcdy
-- PraNet
+- PraNet <br>
 https://pan.baidu.com/s/1xDSOr0bRqrigFryVmmvIcg?pwd=wzyx
-- MMS
+- MMS <br>
 https://pan.baidu.com/s/1yESRGpxq-gdh7u_AqrxDtw?pwd=hadi
-- STM+
+- STM+ <br>
 https://pan.baidu.com/s/1AnOVILeIJQHP4IVjMtn82A?pwd=gsgf
-- CVA-Net
+- CVA-Net <br>
 https://pan.baidu.com/s/1-MBv8MbR_0nmHPvpqfYWPg?pwd=8sw2
