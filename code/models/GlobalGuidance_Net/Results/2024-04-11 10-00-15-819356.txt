@@ -1,0 +1,7 @@
+{'iter_num': 15000, 'train_batch_size': 10, 'lr': 0.001, 'lr_step': 6700, 'lr_decay': 10, 'weight_decay': 0.0001, 'momentum': 0.9, 'last_iter': 0}
+
+[iter 1], [train loss 9.21885], [loss0 1.49857], [lr 0.0010000000000]
+[iter 2], [train loss 9.09271], [loss0 1.46786], [lr 0.0010000000000]
+[iter 3], [train loss 9.02827], [loss0 1.45457], [lr 0.0010000000000]
+[iter 4], [train loss 8.99413], [loss0 1.43274], [lr 0.0010000000000]
+[iter 5], [train loss 8.86459], [loss0 1.39642], [lr 0.0010000000000]

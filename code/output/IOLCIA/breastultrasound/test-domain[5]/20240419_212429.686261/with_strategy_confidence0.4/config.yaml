@@ -1,0 +1,23 @@
+anatomy_channel: 12
+batch_size: 1
+confidence_threhold: 0.4
+data_dir: ../Data/BreastUltrasound
+data_size: 256
+dataset: test
+datasetTest:
+- 5
+deterministic: 1
+exp_dir: ./output/cddsa/breastultrasound/
+extra_info: with_strategy_confidence0.4
+gpu: 1
+in_channel: 3
+model_file: train-domain[5]/20240419_212429.686261/models/best_model.pth
+num_classes: 1
+save_imgs: true
+seed: 123
+strategy: true
+symbolic_confidence_threhold: 0.8
+symbolic_open: true
+symbolic_similarity_threhold: 0.8
+time_open: true
+z_length: 16
