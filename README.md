@@ -68,4 +68,5 @@ The images chosen for the article were run with the model at its best.<br>
 https://pan.baidu.com/s/18itc5GLQ7Gamoqr8uoYBaA?pwd=8ev4
 
 ## Others
-Remaining content will be added incrementally................................
+Feel free to leave questions in "Issues" or via email "231020050@fzu.edu.cn" or "506264025@qq.com". :D <br>
+Remaining content will be added incrementally........
