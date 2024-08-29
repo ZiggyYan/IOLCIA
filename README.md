@@ -20,8 +20,18 @@ If you want to use your own local environment, you can try to match the installa
 - scikit-image                   0.21.0
 - scikit-learn                   1.3.2
 - scipy                          1.10.1
+## File Description <br>
+All the codes are placed in the "./code", where the pth of the best model and testing results are included.<br>
+All codes related to data preprocessing are placed in "./code/Tools". <br>
+All codes related to the data loader are placed in "./code/dataloader/", where native codes for ms and fundus datasets are also included. Dataloader for IOLCIA is preserved in "./code/dataloader/breast_ultrasound". <br>
+All codes related to widgets are placed in "./code/models/", which is the main engine for IOLCIA. <br>
+All codes related to visualization results are placed in "./code/output/IOLCIA/breastultrasound/test-domain[5]/20240419_212429.686261". "Rect" represents that results are optimized using rectangular.
+All codes related to tiny external methods deployed in IOLCIA are placed "./code/utils/".
+The codes for training and testing are "./code/train.py" and "./code/test.py"
 
-## SOTA related
+## Dataset Description <br>
+
+## SOTA Related
 All SOTA models have been debugged and uploaded including codes and results to the cloud.
 - Faster R-CNN / VFNet / GFocal / DyHead / Rf-next <br>
 These models are all implemented using mmdetection: <br>
