@@ -30,7 +30,8 @@ If you want to use your own local environment, you can try to match the installa
 - The codes for training and testing are "./code/train.py" and "./code/test.py"<br>
 
 ## Dataset Description <br>
-- All the datasets used in the experiments are saved and uploaded to the clouds. https://pan.baidu.com/s/1IAlWxIEozNNdbJpQKykVAQ?pwd=g5xt. <br>
+- All the datasets used in the experiments are saved and uploaded to the clouds. <br>
+https://pan.baidu.com/s/1IAlWxIEozNNdbJpQKykVAQ?pwd=g5xt. <br>
 If you would like to download the dataset yourself, information about the dataset is provided below. Some of the datasets require a request to be made in order to use them, so some of the datasets below only provide links to the corresponding papers.<br>
 - Breast Ultrasound Dataset B (BUSB) <br>
 https://helward.mmu.ac.uk/STAFF/M.Yap/dataset.php <br>
@@ -41,7 +42,8 @@ https://pubmed.ncbi.nlm.nih.gov/37937827/
 - BrEaST(USG) <br>
 https://best.ippt.pan.pl/ or https://best.ippt.pan.pl/datasets/breast/
 - BUV <br>
-https://www.researchgate.net/publication/377850164_Curated_benchmark_dataset_for_ultrasound_based_breast_lesion_analysis#fullTextFileContent
+https://www.researchgate.net/publication/377850164_Curated_benchmark_dataset_for_ultrasound_based_breast_lesion_analysis#fullTextFileContent <br>
+It is worth noting that for all datasets, please take care to make changes to paths locally when using. Paths can be placed with reference to the dataset in the cloud
 
 ## SOTA Related
 All SOTA models have been debugged and uploaded including codes and results to the cloud.
