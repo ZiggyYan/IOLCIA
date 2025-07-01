@@ -1,4 +1,4 @@
-# IOLCIA
+# CIIOL+
 This is the official code of Bridge The Gap: A Unified Framework of Cross-Institutional and Image-Only Learning in Ultrasound Video Segmentation(CIIOL+).
 ## Requirements
 This is the basic code environment for this article. Missing packages can be installed directly using pip, depending on the error reported.
