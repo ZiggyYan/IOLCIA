@@ -1,5 +1,5 @@
 # IOLCIA
-This is the official code of Data Constraints? Not anymore: Image-Only Learning with Cross-Institutional Applicability for Ultrasound Video Segmentation (IOLCIA).
+This is the official code of Bridge The Gap: A Unified Framework of Cross-Institutional and Image-Only Learning in Ultrasound Video Segmentation(CIIOL+).
 ## Requirements
 This is the basic code environment for this article. Missing packages can be installed directly using pip, depending on the error reported.
 If you want to use your own local environment, you can try to match the installation based on the following packages.
